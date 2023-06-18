@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
-  "homepage": "https://rubsargsyann.github.io/SimplePortfoilo/",
+  "homepage": "https://rubsargsyann.github.io/Portfoilo/",
   "scripts": {
-    "deploy":"gh-pages -d pages"
+    "deploy": "gh-pages -d pages"
   },
   "keywords": [],
   "author": "",
