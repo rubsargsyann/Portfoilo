@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
-  "homepage": "https://rubsargsyann.github.io/",
+  "homepage": "https://rubsargsyann.github.io/SimplePortfoilo/",
   "scripts": {
     "deploy":"gh-pages -d pages"
   },
