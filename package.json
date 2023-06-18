@@ -5,7 +5,7 @@
   "main": "script.js",
   "homepage": "https://rubsargsyann.github.io/Portfoilo/",
   "scripts": {
-    "deploy": "gh-pages -d pages"
+    "deploy": "gh-pages -d public"
   },
   "keywords": [],
   "author": "",
