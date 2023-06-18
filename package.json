@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
-  "homepage": "rubsargsyann",
+  "homepage": "https://rubsargsyann.github.io/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"gh-pages -d pages"
   },
   "keywords": [],
   "author": "",
