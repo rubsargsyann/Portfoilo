@@ -453,10 +453,6 @@ html {
     width: 45rem;
   }
 
-  .project-img {
-    width: 100%;
-  }
-
   .contact-form {
     width: 320px;
   }
@@ -468,7 +464,7 @@ html {
 
 @media (max-width: 450px) {
   .section-1-heading {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .navbar-link {
@@ -477,6 +473,9 @@ html {
 
   .section-2-heading {
     text-align: center;
+  }
+  .section-3-heading {
+    font-size: 25px;
   }
 
   .progress-bar {
